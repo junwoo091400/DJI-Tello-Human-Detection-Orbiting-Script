@@ -1,6 +1,11 @@
 # Autonomously-orbiting-DJI-Tello-drone-around-a-person-using-Neural-Network
+**This is a project I worked on during November 26th ~ 17th, 2019. At an AI object tracking hackathon.**
 
-This is a project I worked on during November 26th ~ 17th, 2019. At an AI object tracking hackathon.
+**Example Image 1**
+![Trial Image 1](./pics/8-45-trial.PNG)
+
+**Example Image 2**
+![Trial Image 2](./pics/yawcontrol-1.PNG)
 
 ## Code inside this repository is capable of the following:
 
