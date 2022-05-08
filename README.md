@@ -1,4 +1,4 @@
-# Autonomously-orbiting-DJI-Tello-drone-around-a-person-using-Neural-Network
+# DJI Tello Human Detection and Orbiting Script
 **This is a project I worked on during November 26th ~ 17th, 2019. At an AI object tracking hackathon.**
 
 **Example Image 1**
